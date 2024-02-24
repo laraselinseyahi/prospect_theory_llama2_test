@@ -4,7 +4,7 @@ from datetime import date
 import sys
 import numpy as np
 import pandas as pd
-sys.path.append('../')
+sys.path.append('../src')
 from pt_utils import read_api_key
 
 # code for running mixed gambles task on Llama 2 models. 
