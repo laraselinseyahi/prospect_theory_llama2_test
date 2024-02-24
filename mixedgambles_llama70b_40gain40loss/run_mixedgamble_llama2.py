@@ -90,7 +90,7 @@ with open(f'{outfile_stem}.json', 'w') as json_file:
     json.dump(output, json_file, indent=4)
 
 # write responses to a data frame
-df = pd.DataFrame(data['responses'])
+df = pd.DataFrame(output['responses'])
 df['gain'] = df['gain'].astype(int)
 df['loss'] = df['loss'].astype(int)
 df['response_int'] = [1 if i.strip().lower().find('yes') == 0 else 0 for i in df['response']]
