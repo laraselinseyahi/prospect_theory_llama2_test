@@ -140,4 +140,7 @@ if __name__ == "__main__":
     plot_mean_loss(gambles_df, args.targetdir)
     mk_report(gambles_df, config, args.targetdir)
 
-    run_command('pandoc -s report.md -o report.html', cwd=args.targetdir)
+    if not os.path.exists('docs'):
+        os.makedirs('docs/reports')
+
+    run_command(f'pandoc --standalone --embed-resources -s report.md -o {args.targetdir}.html', cwd=args.targetdir)
