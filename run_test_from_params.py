@@ -11,6 +11,13 @@ import argparse
 import toml
 import os
 import shutil
+import random
+import string
+
+
+def generate_random_ascii_hash(length=8):
+    return ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(length))
+
 
 def get_args():
     parser = argparse.ArgumentParser(description='Run a test using params from a file')
@@ -18,6 +25,8 @@ def get_args():
     parser.add_argument('-p', '--param_file',  type=str, help='File containing parameters for the test', required=True)
     parser.add_argument('-k', '--keyfile',  type=str, help='api key file', default='TOGETHER_API.key')
     parser.add_argument('-o', '--overwrite', action='store_true', help='overwrite output directory if it exists')
+    parser.add_argument('--outdir', default='outputs', help='output directory') 
+    parser.add_argument('--hash', action='store_true', help='append a random hash to the name')
     args = parser.parse_args()
     return args
 
@@ -72,7 +81,7 @@ def create_output_dict(params, responses):
 
 
 def save_results_to_json(params, output):
-    with open(os.path.join(params['outfile_stem'], f"{params['outfile_stem']}.json"), 'w') as json_file:
+    with open(os.path.join(params['outfile_stem'], f"{params['outfile_stem'].split('/')[-1]}.json"), 'w') as json_file:
         json.dump(output, json_file, indent=4)
 
 
@@ -82,7 +91,7 @@ def save_results_to_df(params, output):
     df['gain'] = df['gain'].astype(int)
     df['loss'] = df['loss'].astype(int)
     df['response_int'] = [1 if i.strip().lower().find('yes') > -1 else 0 for i in df['response']]
-    df.to_csv(os.path.join(params['outfile_stem'], f"{params['outfile_stem']}.csv"), index=False)
+    df.to_csv(os.path.join(params['outfile_stem'], f"{params['outfile_stem'].split('/')[-1]}.csv"), index=False)
 
 
 if __name__ == '__main__':
@@ -92,7 +101,13 @@ if __name__ == '__main__':
         configname = args.param_file.split("/")[-1].split(".")[0]
 
     params['model']['modelstring'] = params['model']['model'].split("/")[-1].split('-')[-2]
-    params['outfile_stem'] = f"test-{configname}_task-{params['task']['taskname']}_model-{params['model']['modelstring']}_taskstring-{params['task']['taskstring']}"
+    if args.hash is not None:
+        hashstring = f'_hash-{generate_random_ascii_hash()}'
+    else:
+        hashstring = ''
+    params['outfile_stem'] = os.path.join(
+        args.outdir,
+        f"test-{configname}_task-{params['task']['taskname']}_model-{params['model']['modelstring']}_taskstring-{params['task']['taskstring']}{hashstring}")
 
     if os.path.exists(params['outfile_stem']):
         if args.overwrite:
