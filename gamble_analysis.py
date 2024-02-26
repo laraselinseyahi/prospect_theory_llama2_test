@@ -34,7 +34,7 @@ def get_arguments():
 
 
 def get_gamble_df(targetdir):
-    gambles_df = pd.read_csv(f'{targetdir}/{targetdir}.csv')
+    gambles_df = pd.read_csv(f'{targetdir}/{targetdir.split("/")[-1]}.csv')
     del gambles_df['response']
     gambles_df = gambles_df.rename(columns={'response_int': 'response'})
     return gambles_df
@@ -143,4 +143,4 @@ if __name__ == "__main__":
     if not os.path.exists('docs'):
         os.makedirs('docs/reports')
 
-    run_command(f'pandoc --standalone --embed-resources -s report.md -o {args.targetdir}.html', cwd=args.targetdir)
+    run_command(f'pandoc --standalone --embed-resources -s report.md -o {args.targetdir.split("/")[-1]}.html', cwd=args.targetdir)
