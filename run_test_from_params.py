@@ -27,6 +27,7 @@ def get_args():
     parser.add_argument('-o', '--overwrite', action='store_true', help='overwrite output directory if it exists')
     parser.add_argument('--outdir', default='outputs', help='output directory') 
     parser.add_argument('--hash', action='store_true', help='append a random hash to the name')
+    print(parser)
     args = parser.parse_args()
     return args
 
@@ -93,6 +94,7 @@ def save_results_to_df(params, output):
     df['response_int'] = [1 if i.strip().lower().find('yes') > -1 else 0 for i in df['response']]
     df.to_csv(os.path.join(params['outfile_stem'], f"{params['outfile_stem'].split('/')[-1]}.csv"), index=False)
 
+    # call the pre-processing function clean response i , is that == yes clean_response
 
 if __name__ == '__main__':
     args = get_args()
@@ -105,18 +107,31 @@ if __name__ == '__main__':
         hashstring = f'_hash-{generate_random_ascii_hash()}'
     else:
         hashstring = ''
+
+    # Construct outfile_stem with an additional layer of directory
+    outfile_dir = os.path.join(args.outdir, configname)
+
+    # Check if outfile_dir exists, if not, create it
+    if not os.path.exists(outfile_dir):
+        os.makedirs(outfile_dir)
+
     params['outfile_stem'] = os.path.join(
-        args.outdir,
+        #args.outdir, 
+        outfile_dir, 
         f"test-{configname}_task-{params['task']['taskname']}_model-{params['model']['modelstring']}_taskstring-{params['task']['taskstring']}{hashstring}")
 
+    # Check if params['outfile_stem'] exists, if overwrite is enabled, remove it, else raise error
     if os.path.exists(params['outfile_stem']):
         if args.overwrite:
             shutil.rmtree(params['outfile_stem'])
         else:
             raise FileExistsError(f'Output directory {params["outfile_stem"]} already exists - use -o to overwrite or move it out of the way first')
+    
+    # create the output directory 
     os.makedirs(params['outfile_stem'])
     shutil.copy(args.param_file, params['outfile_stem'])
 
+    print(hashstring)
 
     # set up client, reading API key from file
     if not os.path.exists(args.keyfile):

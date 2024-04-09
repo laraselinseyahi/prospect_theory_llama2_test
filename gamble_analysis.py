@@ -42,6 +42,9 @@ def get_gamble_df(targetdir):
 
 def get_respmat(gambles_df):
     respmat = gambles_df.pivot_table(index='gain', columns='loss', values='response')
+    # print(respmat)
+    # respmat.to_csv('respmat.csv', index=False)
+    # save respmat as a csv function 
     return respmat
 
 
@@ -50,12 +53,14 @@ def plot_respmat(respmat, targetdir):
     plt.xlabel('Loss')
     plt.ylabel('Gain')
     plt.colorbar(label='Response')
+    respmat.to_csv(os.path.join(targetdir, 'respmat.csv'), index=False) #added
     plt.savefig(os.path.join(targetdir, 'respmat.png'))
     plt.close()
 
 
 def plot_mean_gain(gambles_df, targetdir):
-    mean_gain = gambles_df.groupby('gain').mean().reset_index()
+    # groups the data frame by the same gain values, and averages. However, you can't average the string prompt, so gives an error.
+    mean_gain = gambles_df.groupby('gain').mean().reset_index() # gambles_df.groupby('gain').mean().reset_index()
     mean_gain.plot(x='gain', y='response', kind='line')
     plt.savefig(os.path.join(targetdir, 'mean_gain.png'))
     plt.close()
@@ -132,12 +137,14 @@ if __name__ == "__main__":
     config = get_config(args.targetdir)
     print(config)
     gambles_df = get_gamble_df(args.targetdir)
+    # print(gambles_df['gain'])
+    # mean_gain = gambles_df.groupby('gain').mean().reset_index()
+    # print(mean_gain)
 
-
-    respmat = get_respmat(gambles_df)
+    respmat = get_respmat(gambles_df) 
     plot_respmat(respmat, args.targetdir)
-    plot_mean_gain(gambles_df, args.targetdir)
-    plot_mean_loss(gambles_df, args.targetdir)
+    # plot_mean_gain(gambles_df, args.targetdir)
+    # plot_mean_loss(gambles_df, args.targetdir)
     mk_report(gambles_df, config, args.targetdir)
 
     if not os.path.exists('docs'):

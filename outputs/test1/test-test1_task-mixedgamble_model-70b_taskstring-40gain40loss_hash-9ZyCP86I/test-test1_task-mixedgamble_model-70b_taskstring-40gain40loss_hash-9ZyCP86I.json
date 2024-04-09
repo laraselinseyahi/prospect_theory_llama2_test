@@ -1,0 +1,2664 @@
+{
+    "metadata": {
+        "taskname": "mixedgamble",
+        "taskstring": "40gain40loss",
+        "date": "2024-03-19",
+        "prompts": {
+            "prompt1": "Q: Would you choose to accept the following gamble: A 50% chance of winning $GAIN",
+            "prompt2": " and a 50% chance of losing $LOSS.  Please respond with 'yes' or 'no'",
+            "start": "You have $100 in your pocket. ",
+            "system": "You are a human subject in a psychology experiment. "
+        },
+        "model": "togethercomputer/llama-2-70b-chat",
+        "temperature": "0",
+        "max_tokens": "1024"
+    },
+    "responses": [
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "0",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "2",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "4",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "6",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "8",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "10",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "12",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "14",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "16",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $0 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "0",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "2",
+            "response": "  Sure! I would choose to accept the gamble. Yes."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "4",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "6",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "8",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "10",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "12",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "14",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "16",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "22",
+            "response": "  No, I would not accept the gamble. The potential loss of $22 outweighs the potential gain of $2, and the risk is not worth the potential reward."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "24",
+            "response": "  No, I would not accept the gamble. The potential loss of $24 outweighs the potential gain of $2, and the risk is not worth the potential reward."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "26",
+            "response": "  No, I would not accept the gamble. The potential loss of $26 outweighs the potential gain of $2, and the risk is not worth the potential reward."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "28",
+            "response": "  No, I would not accept the gamble. The potential loss of $28 is too great compared to the potential gain of $2, and the risk is not worth the potential reward."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "34",
+            "response": "  No, I would not accept the gamble. The expected value of the gamble is -$17 (50% chance of losing $34, 50% chance of winning $2), which means I would expect to lose money on average. I would rather keep the $100 and not take the risk."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "36",
+            "response": "  No, I would not accept the gamble. The expected value of the gamble is -$18 (-36/2 = -18), which means that in the long run, I would expect to lose more money than I would gain. Even though there is a 50% chance of winning $2, the potential loss of $36 outweighs the potential gain, making this a risky and unfavorable gamble."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "38",
+            "response": "  No, I would not accept the gamble. The expected value of the gamble is -$19 (50% chance of winning $2 + 50% chance of losing $38), which means I would expect to lose money on average. I would rather keep the $100 in my pocket."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $2 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "2",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "4",
+            "response": "  Sure! I would choose to accept the gamble. Yes."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "6",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "8",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "10",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "12",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "14",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "16",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "36",
+            "response": "  No, I would not accept the gamble. The potential loss of $36 outweighs the potential gain of $4, and the risk is not worth the potential reward."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $4 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "4",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "6",
+            "response": "  Sure! I would choose to accept the gamble. Yes."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "8",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "10",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "12",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "14",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "16",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $6 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "6",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "8",
+            "response": "  Sure! I would choose to accept the gamble. Yes."
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "10",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "12",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "14",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "16",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $8 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "8",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "12",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "14",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "16",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $10 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "10",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "14",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "16",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $12 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "12",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "16",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $14 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "14",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "18",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $16 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "16",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "20",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $18 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "18",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "22",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $20 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "20",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "24",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $22 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "22",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "26",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $24 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "24",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "26",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "28",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $26 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "26",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "26",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "28",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "30",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $28 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "28",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "26",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "28",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "30",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "32",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $30 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "30",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "26",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "28",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "30",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "32",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $32 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "32",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "26",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "28",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "30",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "32",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "34",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "36",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $34 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "34",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "26",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "28",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "30",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "32",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "34",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "36",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "38",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $36 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "36",
+            "loss": "40",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "26",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "28",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "30",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "32",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "34",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "36",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "38",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $38 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "38",
+            "loss": "40",
+            "response": "  No"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $0.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "0",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $2.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "2",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $4.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "4",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $6.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "6",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $8.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "8",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $10.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "10",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $12.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "12",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $14.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "14",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $16.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "16",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $18.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "18",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $20.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "20",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $22.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "22",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $24.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "24",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $26.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "26",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $28.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "28",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $30.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "30",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $32.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "32",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $34.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "34",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $36.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "36",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $38.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "38",
+            "response": "  Yes"
+        },
+        {
+            "prompt": "You have $100 in your pocket. Q: Would you choose to accept the following gamble: A 50% chance of winning $40 and a 50% chance of losing $40.  Please respond with 'yes' or 'no'",
+            "gain": "40",
+            "loss": "40",
+            "response": "  Yes"
+        }
+    ]
+}
